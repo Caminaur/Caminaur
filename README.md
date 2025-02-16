@@ -1,4 +1,4 @@
-# Julian Caminaur
+f# Julian Caminaur
 
 **`Fullstack Developer`**
 
@@ -9,9 +9,10 @@ My journey also led me to mobile development with Dart and Flutter, where I cont
 ## My Profiles
 
 [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Profile-blue?style=for-the-badge&logo=frontendmentor)](https://www.frontendmentor.io/profile/Caminaur)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/ForrestKnight)  
-[![CSS Battles](https://img.shields.io/badge/CSS%20Battles-Profile-orange?style=for-the-badge&logo=css3)](#)  
-[![Website](https://img.shields.io/badge/My%20Website-Visit-brightgreen?style=for-the-badge&logo=googlechrome)](#)  
+[![Exercism](https://img.shields.io/badge/Exercism-Profile-purple?style=for-the-badge&logo=exercism)](https://exercism.org/profiles/Caminaur)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Caminaur)  
+[![CSS Battles](https://img.shields.io/badge/CSS%20Battles-Profile-orange?style=for-the-badge&logo=css3)](https://cssbattle.dev/player/caminaur)  
+[![Website](https://img.shields.io/badge/My%20Website-Visit-brightgreen?style=for-the-badge&logo=googlechrome)](https://julian-caminaur.tech/)
 ---
 
 ### 🧰 Languages and Tools
