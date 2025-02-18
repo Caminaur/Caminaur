@@ -4,6 +4,8 @@
 
 I’m a Fullstack Developer passionate about building efficient and user-friendly digital solutions. With experience in web, data, and mobile development, I enjoy tackling complex challenges and continuously learning new technologies to create impactful applications.
 
+![Caminaur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caminaur&show_icons=true&theme=great-gatsby)
+
 ## My Profiles
 
 [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Profile-blue?style=for-the-badge&logo=frontendmentor)](https://www.frontendmentor.io/profile/Caminaur)  
@@ -27,7 +29,7 @@ I’m a Fullstack Developer passionate about building efficient and user-friendl
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br/><br/>
 
-![Caminaur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caminaur&show_icons=true&theme=great-gatsby)
+---
 
 ### Frontend
 
