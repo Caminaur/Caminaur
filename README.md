@@ -31,7 +31,7 @@ I’m a Fullstack Developer passionate about building efficient and user-friendl
 <br/><br/>
 
 
-[![Top Langs](https://github-stats-caminaur.vercel.app/api/top-langs/?username=Caminaur&langs_count=7&size_weight=0.5&count_weight=0.5&theme=great-gatsby&layout=pie&hide=PHP,Dart,Swift,Kotlin,Less,Objective-C,Python,Shell)](https://github.com/Caminaur/github-readme-stats)
+![Top Langs](https://github-stats-caminaur.vercel.app/api/top-langs/?username=Caminaur&langs_count=7&size_weight=0.5&count_weight=0.5&theme=great-gatsby&layout=pie&hide=PHP,Dart,Swift,Kotlin,Less,Objective-C,Python,Shell)](https://github.com/Caminaur/github-readme-stats)
 
 ### Backend
 
